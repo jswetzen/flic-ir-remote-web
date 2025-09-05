@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/flic-ir-remote-web/static/css/main.f855e6bc.css",
-    "main.js": "/flic-ir-remote-web/static/js/main.64d5d22e.js",
+    "main.js": "/flic-ir-remote-web/static/js/main.3fb0119f.js",
     "static/js/453.eef4fed5.chunk.js": "/flic-ir-remote-web/static/js/453.eef4fed5.chunk.js",
     "static/media/logo.svg": "/flic-ir-remote-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/flic-ir-remote-web/index.html",
     "main.f855e6bc.css.map": "/flic-ir-remote-web/static/css/main.f855e6bc.css.map",
-    "main.64d5d22e.js.map": "/flic-ir-remote-web/static/js/main.64d5d22e.js.map",
+    "main.3fb0119f.js.map": "/flic-ir-remote-web/static/js/main.3fb0119f.js.map",
     "453.eef4fed5.chunk.js.map": "/flic-ir-remote-web/static/js/453.eef4fed5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.64d5d22e.js"
+    "static/js/main.3fb0119f.js"
   ]
 }
