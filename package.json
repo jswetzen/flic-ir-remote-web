@@ -12,6 +12,7 @@
     "react-bootstrap": "^2.7.2",
     "react-bootstrap-icons": "^1.10.2",
     "react-dom": "^18.2.0",
+    "react-icons": "^5.5.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
@@ -43,5 +44,6 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  }
+  },
+  "packageManager": "yarn@1.22.21+sha1.1959a18351b811cdeedbd484a8f86c3cc3bbaf72"
 }
