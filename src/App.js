@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
@@ -21,7 +20,7 @@ function App() {
       </Row>
       <Row className="m-2 justify-content-md-center">
         <Col><Button onClick={() => SendIRCommand("ReceiverVolUp")}><Icon.CaretUpFill/></Button></Col>
-        <Col><Button onClick={() => SendIRCommand("ReceiverInput2")}>TV</Button></Col>
+        <Col><Button onClick={() => SendIRCommand("ReceiverInput2")}><Icon.Apple/></Button></Col>
         <Col><Button onClick={() => SendIRCommand("ReceiverInput3")}><Icon.Playstation/></Button></Col>
       </Row>
       <Row className="m-2 justify-content-md-center">
@@ -31,7 +30,7 @@ function App() {
       </Row>
       <Row className="m-2 justify-content-md-center">
         <Col><Button onClick={() => SendIRCommand("ReceiverVolDown")}><Icon.CaretDownFill/></Button></Col>
-        <Col><Button onClick={() => SendIRCommand("ProjectorOnOff")}><Icon.Power/><br/><br/><Icon.ProjectorFill/></Button></Col>
+        <Col><Button onClick={() => SendIRCommand("ProjectorOnOff")}><Icon.Power/><br/><Icon.ProjectorFill/></Button></Col>
         <Col><Button onClick={() => SendIRCommand("ReceiverInput1")}><SiKodi/></Button></Col>
       </Row>
     </Container>
